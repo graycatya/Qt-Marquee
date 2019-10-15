@@ -1,8 +1,6 @@
 # Qt 跑马灯
 
-  ![conv_ops](Gif/Marquee.git)
-<iframe height=50 width=600 src="./Gif/Marquee.gif">
-
+  ![conv_ops](./Gif/Marquee.gif)
 
 ```
 #include "marquee.h"
