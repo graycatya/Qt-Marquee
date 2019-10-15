@@ -1,4 +1,4 @@
-#Qt 跑马灯
+# Qt 跑马灯
 
 ```
 #include "marquee.h"
