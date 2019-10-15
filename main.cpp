@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     Marquee w;
-    w.setGeometry(100,100, 600, 50);
+    w.setGeometry(200,100, 600, 50);
     w.AddText("nokia nokia nokia nokia nokia nokia nokia nokia nokia nokia nokia nokia");
     QFont font;
     font.setFamily("Microsoft YaHei");
